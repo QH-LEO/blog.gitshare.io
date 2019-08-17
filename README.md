@@ -1,10 +1,12 @@
-redis源码解析（一）
+redis源码解析及ARM高性能移植（一）
 
 GitHub地址:https://github.com/QH-LEO
 
 #第一次用github写博客，由于时间原因，未能有效构建博客网站，敬请谅解
 
 ！！
+
+#本文只是介绍redis源码思路，之后会介绍ARM和ARM集群跑redis各性能数据，包括各种带宽下的局域网ssh访问,以及Linux内核性能优化
 
 #笔者为在校大二学生，博文来之不易，转载请说明出处
 
